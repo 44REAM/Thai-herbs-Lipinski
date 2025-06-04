@@ -1,0 +1,33 @@
+plant,chem,smile,Unnamed: 3,weight,logp,h_bond_donor,h_bond_acceptors,weight_pass,logp_pass,h_bond_donor_pass,h_bond_acceptors_pass,summary
+Andrographis paniculata,Andrographolide,C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\[C@@H](COC3=O)O)(C)CO)O  ,,350.2093240599999,1.9626000000000001,3.0,5.0,,True,True,True,4
+Andrographis paniculata,neoandrographolide,C[C@]1(CCC[C@@]2([C@@H]1CCC(=C)[C@H]2CCC3=CCOC3=O)C)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,,480.27231823999983,1.845200000000001,4.0,8.0,,True,True,True,4
+Andrographis paniculata,"14-deoxy-11, 12-didehydroandrographolide",C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2/C=C/C3=CCOC3=O)(C)CO)O  ,,332.19875937599994,2.767800000000002,2.0,4.0,,True,True,True,4
+Aucklandia lappa Decne,Costunolide,C/C/1=C\CC/C(=C/[C@@H]2[C@@H](CC1)C(=C)C(=O)O2)/C  ,,232.14632988,3.5508000000000024,0.0,2.0,,True,True,True,4
+Aucklandia lappa Decne,dehydrocostus lactone,C=C1CC[C@@H]2[C@@H]([C@@H]3[C@H]1CCC3=C)OC(=O)C2=C,,230.130679816,3.0166000000000013,0.0,2.0,,True,True,True,4
+Aucklandia lappa Decne,alantolactone ,C[C@H]1CCC[C@]2(C1=C[C@H]3[C@@H](C2)OC(=O)C3=C)C,,232.14632988,3.2406000000000024,0.0,2.0,,True,True,True,4
+Boesenbergia rotunda,Panduratin A,CC1=CC[C@H]([C@@H]([C@@H]1CC=C(C)C)C(=O)C2=C(C=C(C=C2O)OC)O)C3=CC=CC=C3,,406.21440943999994,6.011600000000008,2.0,4.0,,False,True,True,3
+Cannabis sativa,Tetrahydrocannabivarin (THCV) ,CCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,,286.193280072,4.955600000000005,1.0,2.0,,True,True,True,4
+Cannabis sativa,tetrahydrocannabinol (THC) ,CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,,314.2245802,5.7358000000000064,1.0,2.0,,False,True,True,3
+Capsicum oleoresin,Capsaicin ,CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC,,305.199093724,3.789600000000002,2.0,3.0,,True,True,True,4
+Cassia fistula,Rhein ,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,,284.03208797599996,1.5714,3.0,5.0,,True,True,True,4
+Centella asiatica,Madecassoside ,C[C@@H]1CC[C@@]2(CC[C@]3(C(=CC[C@H]4[C@]3(C[C@H]([C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)O)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O)O)O)O  ,,974.5086448960003,-2.0619999999999896,13.0,20.0,False,True,False,False,1
+Centella asiatica,asiaticoside ,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H]([C@@]5(C)CO)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O)O)O)O  ,,958.5137302760003,-1.0327999999999922,12.0,19.0,False,True,False,False,1
+Chrysopogon zizanioides,Aciculatin ,C[C@@H]1[C@H]([C@H](C[C@H](O1)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)O)O,,414.13146766399984,2.451500000000003,4.0,8.0,,True,True,True,4
+Cyperus rotundus,Isocyperol ,CC(=C)[C@@H]1CC[C@]2(CC[C@H](C(=C)[C@@H]2C1)O)C,,220.182715388,3.6960000000000024,1.0,1.0,,True,True,True,4
+Derris scandens (Roxb.) Benth,Scandenin,CC(=CCC1=C2C(=C3C(=C1OC)C(=C(C(=O)O3)C4=CC=C(C=C4)O)O)C=CC(O2)(C)C)C,,434.1729385519999,5.572700000000006,2.0,6.0,,False,True,True,3
+Dracaena cochinchinensis,Loureirin B (LB) ,COC1=CC(=C(C(=C1)OC)CCC(=O)C2=CC=C(C=C2)O)OC  ,,316.13107374,3.233500000000002,1.0,5.0,,True,True,True,4
+Ficus racemosa L.,Lupeol ,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C,,426.38616621999995,8.02480000000001,1.0,1.0,,False,True,True,3
+Harrisonia perforata (Blanco) Merr.,Harperfolide ,C[C@@]12CC[C@@H]3[C@@]([C@]4(C(=O)C(O[C@]4([C@]3([C@@]15[C@H](O5)C(=O)O[C@H]2C6=CC(OC6=O)O)C)O)(C)C)O)(C)/C=C\C(=O)OC,,548.1893764639999,-0.17969999999999953,3.0,12.0,False,True,True,False,2
+Kaempferia galanga,Ethyl-p-methoxycinnamate,C=C[C@@H]1CNC(=S)O1,,129.024834844,0.44569999999999993,1.0,2.0,,True,True,True,4
+Mesua ferrea,Mesuol ,CC(C)C(=O)C1=C(C2=C(C(=C1O)CC=C(C)C)OC(=O)C=C2C3=CC=CC=C3)O,,392.162373868,5.218600000000006,2.0,5.0,,False,True,True,3
+Morus alba,Chlorogenic acid ,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,,354.09508215599993,-0.6459000000000001,6.0,8.0,,True,False,True,3
+Nardostachys jatamansi,Desoxo-narchinol-A (DN) ,C[C@@H]1CCC=C2[C@]1([C@@H](C=CC2=O)O)C,,192.115029752,1.8488,1.0,2.0,,True,True,True,4
+Orthosiphon aristatus,Ursolic acid ,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O,,456.3603453959999,7.089500000000008,2.0,2.0,,False,True,True,3
+Senna garettiana,Piceatannol ,C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O)O,,244.073558864,2.679400000000002,4.0,4.0,,True,True,True,4
+Solanum trilobatum L.,Solasadine ,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1  ,,413.32937961600004,5.286900000000005,2.0,3.0,,False,True,True,3
+Syzygium aromaticum,Eugenol ,COC1=C(C=CC(=C1)CC=C)O,,164.083729624,2.1293,1.0,2.0,,True,True,True,4
+Terminalia chebula ,Tannin ,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O ,,1700.172974183999,4.838100000000011,25.0,46.0,False,True,False,False,1
+Terminalia chebula ,chebulagic acid ,C1C2C3C(C(C(O2)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C6=C5C(C(C(=O)O3)CC(=O)O)C(C(=O)O6)O)O)O)OC(=O)C7=CC(=C(C(=C7C8=C(C(=C(C=C8C(=O)O1)O)O)O)O)O)O ,,954.0974457000004,-0.001700000000001256,13.0,26.0,False,True,False,False,1
+Thunbergia laurifolia,Rosmarinic acid ,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,,360.0845174719999,1.7613000000000012,5.0,7.0,,True,False,True,3
+Tinospora crispa,Syringin ,COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO,,372.14203234799993,-1.1120000000000003,5.0,9.0,,True,False,True,3
+Zingiber zerumbet (L.) ,Zerumbone ,C/C/1=C\CC(/C=C/C(=O)/C(=C/CC1)/C)(C)C  ,,218.167065324,4.214400000000004,0.0,1.0,,True,True,True,4

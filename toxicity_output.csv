@@ -1,0 +1,7 @@
+input	type	Target	Prediction	Probability
+CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3	acute toxicity	LD50	1190	100
+CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3	acute toxicity	tox_class	4	100
+CC(=O)OC1=CC=CC=C1C(=O)O	acute toxicity	LD50	250	100
+CC(=O)OC1=CC=CC=C1C(=O)O	acute toxicity	tox_class	3	100
+CN(C)CCOC1=CC=CC=C1Cl	acute toxicity	LD50	500	76.98
+CN(C)CCOC1=CC=CC=C1Cl	acute toxicity	tox_class	4	76.98

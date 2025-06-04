@@ -1,0 +1,18 @@
+plant,chem,smile,Unnamed: 3,weight,logp,h_bond_donor,h_bond_acceptors,weight_pass,logp_pass,h_bond_donor_pass,h_bond_acceptors_pass,summary,logS,LD50,tox_class,similarity,accuracy
+Andrographis paniculata,Andrographolide,C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\[C@@H](COC3=O)O)(C)CO)O  ,,350.2093240599999,1.9626000000000001,3.0,5.0,True,True,True,True,4,-3.0512590000000004,1890mg/kg,4,70.04%,69.26%
+Andrographis paniculata,neoandrographolide,C[C@]1(CCC[C@@]2([C@@H]1CCC(=C)[C@H]2CCC3=CCOC3=O)C)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,,480.27231823999983,1.845200000000001,4.0,8.0,True,True,True,True,4,-3.5201836000000015,5mg/kg,1,83.47%,70.97%
+Andrographis paniculata,"14-deoxy-11, 12-didehydroandrographolide",C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2/C=C/C3=CCOC3=O)(C)CO)O  ,,332.19875937599994,2.767800000000002,2.0,4.0,True,True,True,True,4,-3.4468420000000015,6060mg/kg,6,63.67%,68.07%
+Aucklandia lappa Decne,Costunolide,C/C/1=C\CC/C(=C/[C@@H]2[C@@H](CC1)C(=C)C(=O)O2)/C  ,,232.14632988,3.5508000000000024,0.0,2.0,True,True,True,True,4,-3.517406600000001,3140mg/kg,5,77.02%,69.26%
+Aucklandia lappa Decne,dehydrocostus lactone,C=C1CC[C@@H]2[C@@H]([C@@H]3[C@H]1CCC3=C)OC(=O)C2=C,,230.130679816,3.0166000000000013,0.0,2.0,True,True,True,True,4,-3.1683614,1330mg/kg,4,73.81%,69.26%
+Aucklandia lappa Decne,alantolactone ,C[C@H]1CCC[C@]2(C1=C[C@H]3[C@@H](C2)OC(=O)C3=C)C,,232.14632988,3.2406000000000024,0.0,2.0,True,True,True,True,4,-3.3219806000000016,5000mg/kg,5,75.73%,69.26%
+Cannabis sativa,Tetrahydrocannabivarin (THCV) ,CCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,,286.193280072,4.955600000000005,1.0,2.0,True,True,True,True,4,-4.817229571428575,482mg/kg,4,100%,100%
+Capsicum oleoresin,Capsaicin ,CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC,,305.199093724,3.789600000000002,2.0,3.0,True,True,True,True,4,-3.7288577818181827,47mg/kg,2,100%,100%
+Cassia fistula,Rhein ,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,,284.03208797599996,1.5714,3.0,5.0,True,True,True,True,4,-2.949021742857142,5000mg/kg,5,100%,100%
+Chrysopogon zizanioides,Aciculatin ,C[C@@H]1[C@H]([C@H](C[C@H](O1)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=C(C=C4)O)O)OC)O)O,,414.13146766399984,2.451500000000003,4.0,8.0,True,True,True,True,4,-4.150453666666668,832mg/kg,4,58.32%,67.38%
+Cyperus rotundus,Isocyperol ,CC(=C)[C@@H]1CC[C@]2(CC[C@H](C(=C)[C@@H]2C1)O)C,,220.182715388,3.6960000000000024,1.0,1.0,True,True,True,True,4,-3.4686872000000015,5000mg/kg,5,90.62%,72.9%
+Dracaena cochinchinensis,Loureirin B (LB) ,COC1=CC(=C(C(=C1)OC)CCC(=O)C2=CC=C(C=C2)O)OC  ,,316.13107374,3.233500000000002,1.0,5.0,True,True,True,True,4,-3.7625805565217405,500mg/kg,4,73.28%,69.26%
+Kaempferia galanga,Ethyl-p-methoxycinnamate,C=C[C@@H]1CNC(=S)O1,,129.024834844,0.44569999999999993,1.0,2.0,True,True,True,True,4,-0.8557317999999998,333mg/kg,4,41.8%,54.26%
+Nardostachys jatamansi,Desoxo-narchinol-A (DN) ,C[C@@H]1CCC=C2[C@]1([C@@H](C=CC2=O)O)C,,192.115029752,1.8488,1.0,2.0,True,True,True,True,4,-2.1967436,9000mg/kg,6,72.99%,69.26%
+Senna garettiana,Piceatannol ,C1=CC(=C(C=C1/C=C/C2=CC(=CC(=C2)O)O)O)O,,244.073558864,2.679400000000002,4.0,4.0,True,True,True,True,4,-3.403680533333334,2400mg/kg,5,71.97%,69.26%
+Syzygium aromaticum,Eugenol ,COC1=C(C=CC(=C1)CC=C)O,,164.083729624,2.1293,1.0,2.0,True,True,True,True,4,-2.3715238000000003,1930mg/kg,4,100%,100%
+Zingiber zerumbet (L.) ,Zerumbone ,C/C/1=C\CC(/C=C/C(=O)/C(=C/CC1)/C)(C)C  ,,218.167065324,4.214400000000004,0.0,1.0,True,True,True,True,4,-3.848780000000002,4590mg/kg,5,78.6%,69.26%
